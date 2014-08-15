@@ -15,7 +15,7 @@ body {
 }
 
 .text-primary {
-    color: #fe4444;
+    color: #20A286;
 }
 
 p {
@@ -43,7 +43,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-    color: #fe4444;
+    color: #20A286;
 }
 
 h1,
@@ -85,7 +85,7 @@ h6 {
 .open .dropdown-toggle.btn-primary {
     border-color: #f6bf01;
     color: #fff;
-    background-color: #fe4444;
+    background-color: #20A286;
 }
 
 .btn-primary:active,
@@ -135,9 +135,9 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #fe4444;
+    border-color: #20A286;
     color: #fff;
-    background-color: #fe4444;
+    background-color: #20A286;
 }
 
 .btn-xl:active,
@@ -184,7 +184,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .navbar-brand:focus,
 .navbar-default .navbar-brand:active,
 .navbar-default .navbar-brand.active {
-    color: #fe4444;
+    color: #20A286;
 }
 
 .navbar-default .navbar-collapse {
@@ -192,8 +192,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #fe4444;
-    background-color: #fe4444;
+    border-color: #20A286;
+    background-color: #20A286;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -202,7 +202,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-    background-color: #fe4444;
+    background-color: #20A286;
 }
 
 .navbar-default .nav li a {
@@ -216,19 +216,19 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #fe4444;
+    color: #20A286;
 }
 
 .navbar-default .navbar-nav>.active>a {
     border-radius: 0;
     color: #fff;
-    background-color: #fe4444;
+    background-color: #20A286;
 }
 
 .navbar-default .navbar-nav>.active>a:hover,
 .navbar-default .navbar-nav>.active>a:focus {
     color: #fff;
-    background-color: #fe4444;
+    background-color: #20A286;
 }
 
 @media(min-width:768px) {
@@ -266,7 +266,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/header-bg.jpg);
+    background-image: url(../img/mac.jpg);
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -655,9 +655,9 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/a_mile.jpg);
+    background-image: url(../img/retina_wood.png);
     background-position: center;
-    background-repeat: no-repeat;
+    background-repeat: repeat;
 }
 
 section#contact .section-heading {
@@ -760,7 +760,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:hover,
 ul.social-buttons li a:focus,
 ul.social-buttons li a:active {
-    background-color: #fe4444;
+    background-color: #20A286;
 }
 
 .btn:focus,
